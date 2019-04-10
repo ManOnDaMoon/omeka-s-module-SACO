@@ -12,62 +12,50 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, Body mount
 msgid "Body mount"
 msgstr "Monture sur boîtier"
 
-#, Fixed lens
 msgid "Fixed lens"
 msgstr "Optique"
 
-#, Lens mount
 msgid "Lens mount"
 msgstr "Monture d'objectif"
 
-#, Film format
 msgid "Film format"
 msgstr "Support photographique"
 
-#, Alternative name
 msgid "Alternative name"
 msgstr "Nom alternatif"
 
-#, Camera type
 msgid "Camera type"
 msgstr "Type d'appareil"
 
-#, Picture size
 msgid "Picture size"
 msgstr "Format de prise de vue"
 
-#, Minimum aperture
 msgid "Minimum aperture"
 msgstr "Ouverture minimale"
 
-#, Variant
 msgid "Variant"
 msgstr "Variante"
 
-#, Minimal focus distance
 msgid "Minimal focus distance"
 msgstr "Distance minimale de mise au point"
 
-#, Focal length
 msgid "Focal length"
 msgstr "Longueur focale"
 
-#, Maximum aperture
 msgid "Maximum aperture"
 msgstr "Ouverture maximale"
 
-#, Lens diameter
 msgid "Lens diameter"
 msgstr "Diamètre d'objectif"
 
-#, Brand
 msgid "Brand"
 msgstr "Marque"
 
-#, Photographic camera
 msgid "Photographic camera"
 msgstr "Appareil photographique"
+
+msgid "Lens"
+msgstr "Objectif"
