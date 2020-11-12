@@ -63,5 +63,20 @@ msgstr "Objectif"
 msgid "Lens design"
 msgstr "Modèle d'objectif"
 
-msgid "Origin"
-msgstr "Provenance"
+msgid "Serial number"
+msgstr "Numéro de série"
+
+msgid "Mount design"
+msgstr "Modèle de monture"
+
+msgid "Model name"
+msgstr "Nom du modèle"
+
+msgid "Item manufacturing year"
+msgstr "Année de fabrication de cet appareil"
+
+msgid "Reference on Collection-Appareils"
+msgstr "Référence sur Collection-Appareils"
+
+msgid "Detailed article"
+msgstr "Article détaillé"
