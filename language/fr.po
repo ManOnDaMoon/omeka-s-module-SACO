@@ -59,3 +59,9 @@ msgstr "Appareil photographique"
 
 msgid "Lens"
 msgstr "Objectif"
+
+msgid "Lens design"
+msgstr "Modèle d'objectif"
+
+msgid "Origin"
+msgstr "Provenance"
