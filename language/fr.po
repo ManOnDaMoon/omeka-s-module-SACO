@@ -83,3 +83,6 @@ msgstr "Article détaillé"
 
 msgid "Maker name"
 msgstr "Nom du fabricant"
+
+msgid "Country"
+msgstr "Pays"
