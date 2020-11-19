@@ -80,3 +80,6 @@ msgstr "Référence sur Collection-Appareils"
 
 msgid "Detailed article"
 msgstr "Article détaillé"
+
+msgid "Maker name"
+msgstr "Nom du fabricant"
