@@ -86,3 +86,9 @@ msgstr "Nom du fabricant"
 
 msgid "Country"
 msgstr "Pays"
+
+msgid "Bibliography"
+msgstr "Bibliographie"
+
+msgid "Subtitle"
+msgstr "Sous-titre"
