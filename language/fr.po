@@ -92,3 +92,6 @@ msgstr "Bibliographie"
 
 msgid "Subtitle"
 msgstr "Sous-titre"
+
+msgid "Photographic accessory"
+msgstr "Accessoire photographique"
